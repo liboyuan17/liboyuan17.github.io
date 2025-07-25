@@ -6,11 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span class='anchor' id='about-me'></span>
 I am a PhD student at [Xinjiang University](https://www.xju.edu.cn/). My research interests include infrared small target detection, camouflaged object detection, computer vision, and deep learning.
 
 [Email](liboyuan@stu.xju.edu.cn) / [Github](https://github.com/liboeryuan)
 
+<span class='anchor' id='-lwzl'></span>
 # Publications
 
 ## 2024
